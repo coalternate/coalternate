@@ -1,4 +1,4 @@
-![Header Image](https://github.com/coalternate/coalternate/blob/master/assets/header.svg)
+![Header Image](https://github.com/coalternate/coalternate/blob/master/assets/header-logo.svg)
 
 [![Swift](https://img.shields.io/badge/-Swift-fa7343?logo=swift&logoColor=fff&style=flat&link=https://developer.app)](https://developer.apple.com/swift/)
 [![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=fff&style=flat)](https://git-scm.com)
