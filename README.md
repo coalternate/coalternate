@@ -15,6 +15,9 @@
 # Hello, world!
 My name's Kai, and I like to make things harder for myself than they have to be, so naturally I fell in love with programming. I also like to make music, design logos, play games, and watch Doctor Who. I enjoy creating all kinds of things, and while I'm proficient enough in the languages and technologies listed above to make functioning things, I'm in no way an expert at any of them. Maybe one day :wink:
 
+# Projects
+Unless otherwise stated, all of my projects fall under the [MIT License](https://choosealicense.com/licenses/mit/).
+
 # Need to reach me?
 I can usually be found hanging around one of these places:
 
