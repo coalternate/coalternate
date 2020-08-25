@@ -1,4 +1,5 @@
-![Header Image](https://github.com/coalternate/coalternate/blob/master/assets/banner.svg)
+![Header](https://github.com/coalternate/coalternate/blob/master/assets/header.svg)
+
 [![Swift](https://img.shields.io/badge/-Swift-fa7343?logo=swift&logoColor=fff&style=flat)](https://developer.apple.com/swift/)
 [![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=fff&style=flat)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com)
@@ -12,14 +13,16 @@
 [![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff&style=flat)](https://www.python.org)
 
 # Hello, world!
-My name's Kai, and I like to make things harder for myself than they have to be, so naturally I love to program. I also like to make music, design logos, play games, and watch Doctor Who. I enjoy creating all kinds of things, and while I'm proficient enough in the languages and technologies listed above to make functioning things, I'm in no way an expert at any of them. Maybe one day :wink:
+My name's Kai, and I like to make things harder for myself than they have to be, so naturally I love to program. I also like to make music, design logos, play games, and watch Doctor Who. I enjoy creating all kinds of things, and while I'm proficient enough in the languages and technologies listed above to make working projects, I'm in no way an expert at any of them. Maybe one day :wink:
 
-# Projects
+## Projects
 Unless otherwise stated, all of my projects fall under the [MIT License](https://choosealicense.com/licenses/mit/).
 
-# Need to reach me?
+## Need to reach me?
 I can usually be found hanging around one of these places:
 
-[![GitHub](https://img.shields.io/badge/GitHub-coalternate-grey?logo=github&logoColor=fff&labelColor=000&style=flat)](https://github.com/coalternate)
-[![Gmail](https://img.shields.io/badge/Gmail-coalternate%40gmail.com-d14836?logo=gmail&logoColor=fff&labelColor=000&style=flat)](mailto:coalternate@gmail.com)
-[![Reddit](https://img.shields.io/badge/Reddit-u/coalternate-ff4500?logo=reddit&logoColor=fff&labelColor=000&style=flat)](https://www.reddit.com/user/coalternate)
+[![GitHub](https://img.shields.io/badge/-coalternate-181717?logo=github&logoColor=fff&style=flat)](https://github.com/coalternate)
+[![Gmail](https://img.shields.io/badge/-coalternate%40gmail.com-d14836?logo=gmail&logoColor=fff&style=flat)](mailto:coalternate@gmail.com)
+[![Reddit](https://img.shields.io/badge/-u%2Fcoalternate-ff4500?logo=reddit&logoColor=fff&style=flat)](https://www.reddit.com/user/coalternate)
+
+![Footer](https://github.com/coalternate/coalternate/blob/master/assets/footer.svg)
