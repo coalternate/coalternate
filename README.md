@@ -1,4 +1,4 @@
-![Header](https://github.com/coalternate/coalternate/blob/master/assets/header.svg)
+![Banner](https://github.com/coalternate/coalternate/blob/master/assets/banner.svg)
 
 [![Swift](https://img.shields.io/badge/-Swift-fa7343?logo=swift&logoColor=fff&style=flat)](https://developer.apple.com/swift/)
 [![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=fff&style=flat)](https://git-scm.com)
@@ -25,4 +25,4 @@ I can usually be found hanging around one of these places:
 [![Gmail](https://img.shields.io/badge/-coalternate%40gmail.com-d14836?logo=gmail&logoColor=fff&style=flat)](mailto:coalternate@gmail.com)
 [![Reddit](https://img.shields.io/badge/-u%2Fcoalternate-ff4500?logo=reddit&logoColor=fff&style=flat)](https://www.reddit.com/user/coalternate)
 
-![Footer](https://github.com/coalternate/coalternate/blob/master/assets/footer.svg)
+![Bottom Banner](https://github.com/coalternate/coalternate/blob/master/assets/banner-bottom.svg)
