@@ -1,5 +1,4 @@
-![Header Image](https://github.com/coalternate/coalternate/blob/master/assets/banner.svg)
-
+![Header Image](https://github.com/coalternate/coalternate/blob/master/assets/readme-banner.svg)
 [![Swift](https://img.shields.io/badge/-Swift-fa7343?logo=swift&logoColor=fff&style=flat&link=https://developer.app)](https://developer.apple.com/swift/)
 [![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=fff&style=flat)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com)
@@ -13,7 +12,7 @@
 [![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff&style=flat)](https://www.python.org)
 
 # Hello, world!
-My name's Kai, and I like to make things harder for myself than they have to be, so naturally I fell in love with programming. I also like to make music, design logos, play games, and watch Doctor Who. I enjoy creating all kinds of things, and while I'm proficient enough in the languages and technologies listed above to make functioning things, I'm in no way an expert at any of them. Maybe one day :wink:
+My name's Kai, and I like to make things harder for myself than they have to be, so naturally I love to program. I also like to make music, design logos, play games, and watch Doctor Who. I enjoy creating all kinds of things, and while I'm proficient enough in the languages and technologies listed above to make functioning things, I'm in no way an expert at any of them. Maybe one day :wink:
 
 # Projects
 Unless otherwise stated, all of my projects fall under the [MIT License](https://choosealicense.com/licenses/mit/).
