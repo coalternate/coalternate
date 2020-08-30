@@ -1,13 +1,13 @@
 [//]: # (   _   _  __     _   )
 [//]: # (  | | / //  \   | |  )
 [//]: # (  | |/ // /\ \  | |  )
-[//]: # (  | |\ \ /  \ \ | |  )
+[//]: # (  | |\ \\/  \ \ | |  )
 [//]: # (  |_| \_\    \_\|_|  )
 [//]: # (               KAI.  )
 
 [//]: # (Thanks for visiting my profile! But why are you looking in here?)
 
-![Banner](https://github.com/coalternate/coalternate/blob/master/assets/_banner.svg)
+![Banner](https://github.com/coalternate/coalternate/blob/master/assets/banner.svg)
 
 [![Swift](https://img.shields.io/badge/-Swift-fa7343?logo=swift&logoColor=fff&style=flat)](https://developer.apple.com/swift/)
 [![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=fff&style=flat)](https://git-scm.com)
