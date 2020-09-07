@@ -31,6 +31,8 @@ My name's Kai, and I like to make things harder for myself than they have to be,
 ## Projects
 Unless otherwise stated, all of my projects fall under the [MIT License](https://choosealicense.com/licenses/mit/).
 
+Sometimes I make smaller projects and turn them [into gists](https://gist.github.com/coalternate).
+
 ## Need to reach me?
 I can usually be found hanging around one of these places:
 
