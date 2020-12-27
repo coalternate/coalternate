@@ -21,6 +21,7 @@
 [![Xcode](https://img.shields.io/badge/-Xcode-1575f9?logo=xcode&logoColor=fff&style=flat)](https://developer.apple.com/xcode/)
 [![Jekyll](https://img.shields.io/badge/-Jekyll-c00?logo=jekyll&logoColor=fff&style=flat)](https://jekyllrb.com)
 [![MDN Web Docs](https://img.shields.io/badge/-MDN%20Web%20Docs-000?logo=mdn-web-docs&logoColor=fff&style=flat)](https://developer.mozilla.org/en-US/)
+[![Homebrew](https://img.shields.io/badge/-Homebrew-fbb040?logo=homebrew&logoColor=fff&style=flat)](https://brew.sh)
 [![Ruby Gems](https://img.shields.io/badge/-Ruby%20Gems-e9573f?logo=rubygems&logoColor=fff&style=flat)](https://rubygems.org)
 [![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff&style=flat)](https://www.python.org)
 [![Ruby](https://img.shields.io/badge/-Ruby-cc342d?logo=ruby&logoColor=fff&style=flat)](https://www.ruby-lang.org/en/)
