@@ -13,6 +13,7 @@
 [![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=fff&style=flat)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com)
 [![HTML](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff&style=flat)](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
+[![Markdown](https://img.shields.io/badge/-Markdown-000?logo=markdown&logoColor=fff&style=flat)](https://daringfireball.net/projects/markdown/)
 [![Sass](https://img.shields.io/badge/-Sass-c69?logo=sass&logoColor=fff&style=flat)](https://sass-lang.com)
 [![CSS](https://img.shields.io/badge/-CSS-1572b6?logo=css3&logoColor=fff&style=flat)](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
 [![Sketch](https://img.shields.io/badge/-Sketch-f7b500?logo=sketch&logoColor=000&style=flat)](https://www.sketch.com)
