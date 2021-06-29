@@ -5,9 +5,9 @@
 [//]: # (  |_| \_\    \_\|_|  )
 [//]: # (               KAI.  )
 
-[//]: # (Thanks for visiting my profile! But why are you looking in here?)
+[//]: # (You found a secret Easter egg! Go collect your reward: https://www.youtube.com/watch?v=bxqLsrlakK8)
 
-![Banner](https://github.com/coalternate/coalternate/blob/master/assets/header.svg)
+![Banner](https://github.com/coalternate/coalternate/blob/master/assets/banner.svg)
 
 [![Swift](https://img.shields.io/badge/-Swift-fa7343?logo=swift&logoColor=fff&style=flat)](https://developer.apple.com/swift/)
 [![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=fff&style=flat)](https://git-scm.com)
@@ -29,12 +29,12 @@
 [![Ruby](https://img.shields.io/badge/-Ruby-cc342d?logo=ruby&logoColor=fff&style=flat)](https://www.ruby-lang.org/en/)
 
 # Hello, world!
-My name's Kai, and I like to make things harder for myself than they have to be, so naturally I love to program.
+My name's Kai, and I love designing things, making music, playing games, and programming!
 
 ## Projects
 Unless otherwise stated, all of my projects fall under the [MIT License](https://choosealicense.com/licenses/mit/).
 
-Sometimes I make smaller projects and turn them [into gists](https://gist.github.com/coalternate).
+Sometimes I'll make smaller projects and turn them [into gists](https://gist.github.com/coalternate).
 
 ## Need to reach me?
 I can usually be found hanging around one of these places:
