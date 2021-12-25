@@ -7,7 +7,7 @@
 
 [//]: # (You found a secret Easter egg! Go collect your reward: https://www.youtube.com/watch?v=bxqLsrlakK8)
 
-![Banner](https://github.com/coalternate/coalternate/blob/master/assets/banner.svg)
+![Banner](https://github.com/coalternate/coalternate/blob/main/assets/banner.svg)
 
 [![Swift](https://img.shields.io/badge/-Swift-fa7343?logo=swift&logoColor=fff&style=flat)](https://developer.apple.com/swift/)
 [![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=fff&style=flat)](https://git-scm.com)
